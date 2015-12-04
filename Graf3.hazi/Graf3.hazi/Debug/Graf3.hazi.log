@@ -1,0 +1,16 @@
+﻿Build started 2015. 12. 04. 23:46:16.
+     1>Project "C:\Users\Wheeler-PC\Documents\GitHub\Grafika3.hazi\Graf3.hazi\Graf3.hazi\Graf3.hazi.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Graf3.hazi.cpp
+         Graf3.hazi.cpp
+     1>c:\users\wheeler-pc\documents\github\grafika3.hazi\graf3.hazi\graf3.hazi\graf3.hazi.cpp(346): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+     1>c:\users\wheeler-pc\documents\github\grafika3.hazi\graf3.hazi\graf3.hazi\graf3.hazi.cpp(347): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Wheeler-PC\Documents\GitHub\Grafika3.hazi\Graf3.hazi\Debug\Graf3.hazi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Wheeler-PC\Documents\GitHub\Grafika3.hazi\Graf3.hazi\Debug\Graf3.hazi.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Wheeler-PC\Documents\GitHub\Grafika3.hazi\Graf3.hazi\Debug\Graf3.hazi.lib" /MACHINE:X86 Debug\Graf3.hazi.obj
+         Debug\stdafx.obj
+         Graf3.hazi.vcxproj -> C:\Users\Wheeler-PC\Documents\GitHub\Grafika3.hazi\Graf3.hazi\Debug\Graf3.hazi.exe
+     1>Done Building Project "C:\Users\Wheeler-PC\Documents\GitHub\Grafika3.hazi\Graf3.hazi\Graf3.hazi\Graf3.hazi.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70
